@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvx" alt="atharvx" /></a> </p>
 
-- 🌱 I’m currently learning **dyano flask**
+- 🌱 I’m currently learning **dyano flask go lang**
 
 - 📫 How to reach me **atharvraj250@gmail.com**
 
